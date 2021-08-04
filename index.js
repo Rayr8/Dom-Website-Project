@@ -17,12 +17,6 @@ div.appendChild(p);
 
 document.body.appendChild(div);
 
-// logo
-//const logo = document.createElement("img");
-//logo.src = "images/EduCodelogo.png";
-//backgroundImage.appendChild(logo)
-
-
 const register = document.getElementById("register");
     // Create a break line element
 const br = document.createElement("br"); 

@@ -1,8 +1,15 @@
 
-document.body.style.backgroundImage = "url('images/code4.jpg')";
+const theBody = document.body;
+theBody.style.backgroundImage = "url('images/code4.jpg')";
+theBody.style.backgroundSize = "cover";
 
 const div = document.createElement('div');
 div.classList.add('style');
+
+const logo = document.createElement("img");
+logo.src = "images/EduCodelogo.png";
+
+theBody.appendChild(logo);
 
 const p = document.createElement('p');
 p.textContent = "Click on the button to register for the courses."; 

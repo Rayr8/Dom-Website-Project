@@ -9,11 +9,13 @@
 
 /* Form */
 body {
-    background-size: 1400px 650px;
+    background-size: 500px 650px;
 }
 .styles {
-    padding: 190px;
-    font-size: 23px; 
+    padding-left: 200px;
+    font-size: 23px;
+    padding-right: 800px;
+     
 } /*styles body for form */
 
 

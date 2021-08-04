@@ -18,6 +18,14 @@ body {
      
 } /*styles body for form */
 
+/*Style for the button*/
+.regBtn {
+    color: green;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 
 /* HEADER */
 

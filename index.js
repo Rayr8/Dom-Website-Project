@@ -1,10 +1,6 @@
 
 document.body.style.backgroundImage = "url('images/code4.jpg')";
 
-//const image = document.createElement('img');
-//image.src = 'images/logo.jpg';
-//document.querySelector('.container').appendChild(image);
-
 const div = document.createElement('div');
 div.classList.add('style');
 
@@ -13,6 +9,12 @@ p.textContent = "Click on the button to register for the courses.";
 div.appendChild(p);
 
 document.body.appendChild(div);
+
+// logo
+//const logo = document.createElement("img");
+//logo.src = "images/EduCodelogo.png";
+//backgroundImage.appendChild(logo)
+
 
 const register = document.getElementById("register");
     // Create a break line element

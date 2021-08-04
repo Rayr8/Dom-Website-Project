@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Form */
+body {
+    background-size: 1400px 650px;
+}
+.styles {
+    padding: 190px;
+    font-size: 23px; 
+} /*styles body for form */
+
+
+/* HEADER */
+
+/* MAIN NAV */
+
+#bigDiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#div1{
+    display: flex;
+    width: 45%;
+}
+
+#div1 img{
+    width: 20%;
+    height: auto;
+    margin-top: -15px;
+    cursor: pointer;
+}
+
+#div1 ul li{
+    display: inline-block;
+    margin: 30px 10px;
+    font-size: 25px;
+    color: #1e2a37;
+}
+
+#div1 ul li:hover{
+    border-bottom: 3px solid #1c9954;
+    color: #1c9954; 
+    cursor: pointer;
+}
+
+#div2{
+    padding-top: 5px;
+}
+
+#div2 #payUp{
+    font-size: 25px;
+    background-color: #1c9954;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#div2 #payUp:hover{
+    background-color: #23553a;
+}
+
+.fa-user{
+    color: #1e2a37; 
+    font-size: 40px;
+    margin: 0 20px;
+    background-color: rgb(212, 209, 209);
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.fa-user:hover{
+    background-color: #23553a;   
+    color: white;
+}
+
+/* SUB NAV */
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1e2a37;
+    padding: 10.5px 26px;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding: 10.5px 26px;
+}
+
+nav ul li a:hover{
+    background-color: #06090c;
+}
+
+#test{
+    color: #1c9954;
+   background-color: #06090c ;
+}
+
+/* MAIN SECTIONS */
+
+#myMain{
+    background-color: #06090c;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section1, .section2, .section3{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    color: white;
+    padding: 30px;
+    margin: 0 8px;
+    border-bottom: 3px solid rgb(167, 163, 163);
+}
+
+.leftDiv1, .leftDiv2, .leftDiv3{
+    text-align: center;
+    font-size: x-large;
+}
+
+.leftDiv1 img {
+    width: 50%;
+    height: auto;
+}
+.htmlBtn, .cssBtn, .jsBtn{
+    font-size: 35px;
+    cursor: pointer;
+    margin: 10px;
+    padding: 20px;
+    border: none;
+    border-radius: 50px;
+    background-color: #23553a; 
+    color: white;
+}
+
+.htmlBtn:hover{ 
+    background-color: #1c9954;
+}
+
+.rightDiv1 h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: #FF6D00;
+    margin: 10px auto;
+    border-radius: 10px;
+    width: 80%;
+}
+
+#htmlCodeBox, #cssCodeBox, #jsCodeBox{
+    margin: auto;
+    width: 95%;
+    padding: 50px;
+    line-height: 2.8;
+    font-size: 14px;
+    background-color: #d2dddd;
+    font-family: 'Press Start 2P', cursive; 
+    border-radius: 10px;
+    color: #23553a;
+}
+
+.leftDiv2 img{
+    width: 50%;
+    height: auto;
+}
+
+.cssBtn:hover{
+    background-color: #1c9954;
+}
+
+.rightDiv2 h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: #039be5;
+    margin: 10px auto;
+    border-radius: 10px;
+    width: 80%;
+}
+
+.leftDiv3 img{
+    width: 50%;
+    height: auto;
+}
+
+.jsBtn:hover{
+    background-color: #1c9954;
+}
+
+.rightDiv3 h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: #ddb904;
+    margin: 10px auto;
+    border-radius: 10px;
+    width: 80%;
+}
+
+

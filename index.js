@@ -1,4 +1,3 @@
-
 const theBody = document.body;
 theBody.style.backgroundImage = "url('images/code4.jpg')";
 theBody.style.backgroundSize = "cover";
@@ -64,7 +63,6 @@ function Click_Fun() {
                   
      // Append the full name input to the form
      form.appendChild(FN); 
-                  
      // Inserting a line break
      form.appendChild(br.cloneNode()); 
                   

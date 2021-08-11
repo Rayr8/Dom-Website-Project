@@ -61,7 +61,7 @@ const mainNav = ()=> {
 
     // PERSON ICON (to sign in/out)
     const loginAnch = document.createElement("a");
-    loginAnch.href="index.html";
+    loginAnch.href="registration.html";
     const icon3 = document.createElement("i");
     icon3.setAttribute("class", "fas fa-user");
     loginAnch.appendChild(icon3);

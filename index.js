@@ -88,13 +88,5 @@ function Click_Fun() {
      document.getElementsByTagName("body")[0]
      .appendChild(form)};
 
-    //  Courses
-    // The header, imported main and subnav
-const theHeader = document.querySelector("header");
-
-const headerContent1 = mainNav();
-const headerContent2 = subNav();
-
-theHeader.appendChild(headerContent1);
-theHeader.appendChild(headerContent2);
+   
 

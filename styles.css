@@ -11,12 +11,14 @@
 body {
     background-size: 500px 650px;
 }
+
+/*styles body for form */
 .styles {
     padding-left: 200px;
     font-size: 23px;
     padding-right: 800px;
      
-} /*styles body for form */
+} 
 
 /*Style for the button*/
 .regBtn {
@@ -25,7 +27,6 @@ body {
     padding: 5px;
     border-radius: 5px;
 }
-
 
 /* HEADER */
 

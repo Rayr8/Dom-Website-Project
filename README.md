@@ -42,7 +42,7 @@ All the features below were created with DOM Manipulation:
 
 ## LIVE DEMO
 
-[Live Demo Link](https://raw.githack.com/Rayr8/Dom-Wesbite-Project/main/index.html)
+[Live Demo Link](https://raw.githack.com/Rayr8/Dom-Website-Project/main/index.html)
 
 ## SETUP
 

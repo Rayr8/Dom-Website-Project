@@ -2,17 +2,17 @@
 
 ## TABLE OF CONTENTS
 
-- General Information
-- Language used
-- Features
-- Screenshots
-- Live Demo
-- Setup
-- Usage
-- Contributing
-- Project Status
-- Authors
-- Acknowledgments
+- [General Information](https://github.com/Rayr8/Dom-Wesbite-Project#general-information)
+- [Programming Languages Used](https://github.com/Rayr8/Dom-Wesbite-Project#programming-languages-used)
+- [Features](https://github.com/Rayr8/Dom-Wesbite-Project#features)
+- [Screenshots](https://github.com/Rayr8/Dom-Wesbite-Project#screenshots)
+- [Live Demo](https://github.com/Rayr8/Dom-Wesbite-Project#live-demo)
+- [Setup](https://github.com/Rayr8/Dom-Wesbite-Project#setup)
+- [Usage](https://github.com/Rayr8/Dom-Wesbite-Project#usage)
+- [Contributing](https://github.com/Rayr8/Dom-Wesbite-Project#contributing)
+- [Project Status](https://github.com/Rayr8/Dom-Wesbite-Project#project-status)
+- [Authors](https://github.com/Rayr8/Dom-Wesbite-Project#authors)
+- [Acknowledgments](https://github.com/Rayr8/Dom-Wesbite-Project#acknowledgements)
 
 ## GENERAL INFORMATION
 

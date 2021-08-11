@@ -42,7 +42,7 @@ All the features below were created with DOM Manipulation:
 
 ## LIVE DEMO
 
-[Live Demo Link]()
+[Live Demo Link](https://raw.githack.com/Rayr8/Dom-Website-Project/master/index.html)
 
 ## SETUP
 

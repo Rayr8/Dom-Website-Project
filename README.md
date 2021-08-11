@@ -3,7 +3,7 @@
 ## TABLE OF CONTENTS
 
 - [General Information](https://github.com/Rayr8/Dom-Wesbite-Project#general-information)
-- [Programming Languages Used](https://github.com/Rayr8/Dom-Wesbite-Project#programming-languages-used)
+- [Languages Used](https://github.com/Rayr8/Dom-Wesbite-Project#languages-used)
 - [Features](https://github.com/Rayr8/Dom-Wesbite-Project#features)
 - [Screenshots](https://github.com/Rayr8/Dom-Wesbite-Project#screenshots)
 - [Live Demo](https://github.com/Rayr8/Dom-Wesbite-Project#live-demo)

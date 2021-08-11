@@ -10,7 +10,7 @@ const mainNav = ()=> {
 
     // logo
     const logo = document.createElement("img");
-    logo.src = "images/EduCodelogo.png";
+    logo.src = "images/EduCodeLogo.png";
 
     // list
     const headerList = document.createElement("ul");

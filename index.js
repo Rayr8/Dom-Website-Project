@@ -6,7 +6,7 @@ const div = document.createElement('div');
 div.classList.add('style');
 
 const logo = document.createElement("img");
-logo.src = "images/EduCodelogo.png";
+logo.src = "images/EduCodeLogo.png";
 
 theBody.appendChild(logo);
 
